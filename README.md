@@ -27,4 +27,20 @@ Sinhala language has been included for this'
 
 # install
 
+$ pkg install python
 
+$ pkg install python 2
+
+$ pkg install git 
+
+$ git clone https://github.com/Pinindu-Tharushan/QR-monkey
+ 
+$ cd QR-monkey
+
+$ ls
+
+$ python install.py
+
+$ ls
+
+$ python QRmonkey.py
