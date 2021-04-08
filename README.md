@@ -1,16 +1,10 @@
-# QR-monkey
-
-මුලින්ම install.py file එක run කරන්න. පසුව QRmonkey.py  file එක run කරන්න.
-
-First run the install.py file. Then run the QRmonkey.py file.
+<h1> QR-monkey </h1>
 
 මෙම ටූල් එක https://github.com/GH0STH4CKER/QR-monkey යන ටූල් එක වෙනස් කල එකකි.
-මේ සදහා සිංහල භාෂාව ඇතුලත් කර ඇත.
-තවද එය කර ඇත්තේ ඔවුන්ගේ අවසරය මතයි.
+මේ සදහා සිංහල භාෂාව ඇතුලත් කර ඇත'
 
 This tool is a modified version of https://github.com/GH0STH4CKER/QR-monkey.
-Sinhala language has been included for this.
-And it was done with their permission.
+Sinhala language has been included for this'
 
 <h2>1. Enter Data </h2>
 <h2>2. Select Design Type </h2>
@@ -24,25 +18,5 @@ And it was done with their permission.
 <img src="https://github.com/GH0STH4CKER/QR-monkey/blob/master/qrmType3.png" width="150">
 
 <h2>Contact Me :</h2>
-<a href="https://t.me/PininduTharushan">Telegram</a><br>
-<a href="https://wa.me/+94702801713?text=Hi%20~github">Whatsapp</a>
-
-# install
-
-$ pkg install python
-
-$ pkg install python 2
-
-$ pkg install git 
-
-$ git clone https://github.com/Pinindu-Tharushan/QR-monkey
- 
-$ cd QR-monkey
-
-$ ls
-
-$ python install.py
-
-$ ls
-
-$ python QRmonkey.py
+<a href="https://m.me/dimuth92">Messenger</a><br>
+<a href="https://wa.me/+94716576409?text=Hi%20~github">Whatsapp</a>

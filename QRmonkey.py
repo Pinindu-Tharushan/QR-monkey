@@ -4,23 +4,25 @@ import socket , time
 from colorama import Fore , init
 init()
 
+os.system("clear")
+
 print('''\007
 \033[0;35m  ░█▀▀█ ░█▀▀█ ── ░█▀▄▀█ █▀▀█ █▀▀▄ █─█ █▀▀ █──█ 
 \033[0;35m  ░█─░█ ░█▄▄▀ ▀▀ ░█░█░█ █──█ █──█ █▀▄ █▀▀ █▄▄█ 
-\033[0;35m  ─▀▀█▄ ░█─░█ ── ░█──░█ ▀▀▀▀ ▀──▀ ▀─▀ ▀▀▀ ▄▄▄█\033[5;31mv1.2v
-  
-\033[1;36m -----------------------------------------\033[1;m
-\033[1;33m| [+] By GH0STH4CK3R  [+] QRcodeMonkey Api|
-\033[1;33m| [+] MODIFYED By PININDU THARUSHAN       |
-\033[1;33m|      With On Permission                 |
-\033[1;36m ----------------------------------------\033[00m-''')
+\033[0;35m  ─▀▀█▄ ░█─░█ ── ░█──░█ ▀▀▀▀ ▀──▀ ▀─▀ ▀▀▀ ▄▄▄█\033[5;31mv1.5
+
+\033[1;36m ==================================================\033[1;m
+\033[1;33m|    [+] By GH0STH4CK3R     [+] QRcodeMonkey Api   |
+\033[1;33m|    [+] MODIFYED By PININDU THARUSHAN             |
+\033[1;33m|      With On Permission                          |
+\033[1;36m ==================================================\033[00m-''')
 print()
 print('''\033[0;36m[1] සිංහල ''')
 print('''\033[0;36m[2] English ''')
 print()
 print("\033[0;35mඔබගේ භාෂාව තෝරන්න: ")
 print("\033[0;35mSelect Your language: ")
-ya = input('''[+]=====> ''')
+ya = input('''\033[0;37m[+]=====> ''')
 print()
 
 def english():
@@ -79,7 +81,7 @@ def english():
     #image.write(img.content)
     #image.close()
 
-        print('''\033[0;36m\nImage ",svnm," Saved (current directory)''')
+        print('''\033[0;36m\nImage ''',svnm,''' Saved (current directory)''')
     else:
         print('''\033[0;31m[-] Status : Error ''',resp.status_code)
 
