@@ -24,3 +24,7 @@ Sinhala language has been included for this'
 <h2>Contact Me :</h2>
 <a href="https://t.me/PininduTharushan">Telegram</a><br>
 <a href="https://wa.me/+94702801713?text=Hi%20~github">Whatsapp</a>
+
+# install
+
+
