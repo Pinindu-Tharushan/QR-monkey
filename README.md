@@ -18,5 +18,5 @@ Sinhala language has been included for this'
 <img src="https://github.com/GH0STH4CKER/QR-monkey/blob/master/qrmType3.png" width="150">
 
 <h2>Contact Me :</h2>
-<a href="https://m.me/dimuth92">Messenger</a><br>
-<a href="https://wa.me/+94716576409?text=Hi%20~github">Whatsapp</a>
+<a href="https://t.me/PininduTharushan">Telegram</a><br>
+<a href="https://wa.me/+94702801713?text=Hi%20~github">Whatsapp</a>
