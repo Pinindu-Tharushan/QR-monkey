@@ -1,4 +1,4 @@
-<h1> QR-monkey </h1>
+# QR-monkey
 
 මෙම ටූල් එක https://github.com/GH0STH4CKER/QR-monkey යන ටූල් එක වෙනස් කල එකකි.
 මේ සදහා සිංහල භාෂාව ඇතුලත් කර ඇත'
@@ -16,3 +16,23 @@ Sinhala language has been included for this'
 <img src="https://github.com/GH0STH4CKER/QR-monkey/blob/master/qrmType2.png" width="150">
 <h2>Type 3 </h2>
 <img src="https://github.com/GH0STH4CKER/QR-monkey/blob/master/qrmType3.png" width="150">
+
+# How to install
+
+$ pkg install python
+
+$ pkg install python2
+
+$ pkg install git
+
+$ git clone https://github.com/Pinindu-Tharushan/QR-monkey
+
+$ cd QR-monkey
+
+$ ls
+
+$ python install.py
+
+$ ls
+
+$ python YT TO MP4.py
