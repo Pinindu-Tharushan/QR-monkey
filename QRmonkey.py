@@ -20,7 +20,7 @@ print('''\033[0;36m[2] English ''')
 print()
 print("\033[0;35mඔබගේ භාෂාව තෝරන්න: ")
 print("\033[0;35mSelect Your language: ")
-ya = input('''\033[5;31m[+]=====> ''')
+ya = input('''[+]=====> ''')
 print()
 
 def english():
@@ -32,7 +32,7 @@ def english():
         time.sleep(5)
         exit()
 
-    Data = input('''\033[0;46mEnter data to store in QR code : ''')
+    Data = input('''Enter data to store in QR code : ''')
 
     url = "https://qr-generator.qrcode.studio/qr/custom"
 
@@ -62,8 +62,8 @@ def english():
         OutPut = resp.json()
         Link = OutPut.get('imageUrl')
         Link = "http:" + Link
-        print('''\033[0;31mImage Download Link : ''',Link)    
-        print('''\033[0;32m ''')
+        print('''Image Download Link : ''',Link)    
+        print()
         #Save = input("Enter name to save (example.png) : ")
         #Loc = "c:/Users/Dimuth De Zoysa/Desktop/" + Save
         response = req.get(Link)
@@ -95,7 +95,7 @@ def sinhala():
         exit()
 
     print('''\033[0;46mQR කෝඩ් එකක් බවට පත් කල යුතු දේ ඇතුලත් කරන්න: ''')
-    Data = input('''\033[0;46m[+]======> ''')
+    Data = input('''[+]======> ''')
 
     url = "https://qr-generator.qrcode.studio/qr/custom"
 
@@ -121,12 +121,12 @@ def sinhala():
     resp = req.post(url , json=payload)
 
     if resp.status_code == 200 :
-        print("\n[+] Status : Success\n")
+        print("\n[+] සාර්ථකයි...!\n")
         OutPut = resp.json()
         Link = OutPut.get('imageUrl')
         Link = "http:" + Link
-        print('''\033[0;31mමෙම ලින්ක් එක ඔස්සේ ඔබට මෙම QR කේතය ලබා ගත හැකිය: ''',Link)    
-        print('''\033[0;32m ''')
+        print('''මෙම ලින්ක් එක ඔස්සේ ඔබට මෙම QR කේතය ලබා ගත හැකිය: ''',Link)    
+        print()
         #Save = input("Enter name to save (example.png) : ")
         #Loc = "c:/Users/Dimuth De Zoysa/Desktop/" + Save
         response = req.get(Link)
