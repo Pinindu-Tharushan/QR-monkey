@@ -1,10 +1,12 @@
 # QR-monkey
 
 මෙම ටූල් එක https://github.com/GH0STH4CKER/QR-monkey යන ටූල් එක වෙනස් කල එකකි.
-මේ සදහා සිංහල භාෂාව ඇතුලත් කර ඇත'
+මේ සදහා සිංහල භාෂාව ඇතුලත් කර ඇත.
+තවද මෙය වෙනස් කර ඇත්තේ ඔවුන්ගේ අවසරය මතයි.
 
 This tool is a modified version of https://github.com/GH0STH4CKER/QR-monkey.
-Sinhala language has been included for this'
+Sinhala language has been included for this.
+And this has been changed with their permission.
 
 <h2>1. Enter Data </h2>
 <h2>2. Select Design Type </h2>
