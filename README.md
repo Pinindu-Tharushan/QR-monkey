@@ -1,4 +1,4 @@
-<h1> QR-monkey </h1>
+# QR-monkey
 
 මුලින්ම install.py file එක run කරන්න. පසුව QRmonkey.py  file එක run කරන්න.
 
