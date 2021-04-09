@@ -1,8 +1,8 @@
 # QR-monkey
 
-මුලින්ම install.py file එක run කරන්න. පසුව .py file එක run කරන්න.
+මුලින්ම install.py file එක run කරන්න. පසුව QRmonkey.py file එක run කරන්න.
 
-First run the install.py file. Then run the YT TO MP4.py file.
+First run the install.py file. Then run the QRmonkey.py file.
 
 මෙම ටූල් එක https://github.com/GH0STH4CKER/QR-monkey යන ටූල් එක වෙනස් කල එකකි.
 මේ සදහා සිංහල භාෂාව ඇතුලත් කර ඇත.
